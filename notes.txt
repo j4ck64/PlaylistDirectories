@@ -1,0 +1,20 @@
+
+loop thtough playlist
+
+separarate play list line into two strings 
+title
+artist
+
+
+
+
+if title.tolower()== trackTitle.tolower()
+	if albumArtist.tolower() == track albumArtist.tolower()
+
+
+
+if duplicate
+if Track1biterate > Track2biterate
+else
+
+if 
